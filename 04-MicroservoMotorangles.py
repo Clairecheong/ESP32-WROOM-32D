@@ -14,7 +14,7 @@ duty_cycles = [angle_to_duty(angle) for angle in angles]
 for angle, duty_cycle in zip(angles, duty_cycles):
     print(f"Angle: {angle} degrees, Duty Cycle: {duty_cycle}")
 
-#print
+# print
 # Angle: 0 degrees, Duty Cycle: 20
 # Angle: 10 degrees, Duty Cycle: 26
 # Angle: 20 degrees, Duty Cycle: 32

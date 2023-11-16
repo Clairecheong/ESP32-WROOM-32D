@@ -1,5 +1,4 @@
 # Import libraries
-import machine
 from machine import Pin, TouchPad
 from time import sleep
 
