@@ -1,5 +1,5 @@
-# Since the ESP32-WROOM-32D on a fireBeetle has 10 touchpins. 
-# --- Code ---
+# Since the ESP32-WROOM-32D has 10 touchpins. 
+
 from machine import TouchPad, Pin
 
 # Function to read and print touch values for all available touch pins
